@@ -1,0 +1,22 @@
+{
+  "wheel_id": 462,
+  "structure": "umbrella",
+  "slug": "retainingwallgoldcoast-104",
+  "project": "retaining-walls-gold-coast-how-to-choose-9eb14aae5aebca7aea2e1c",
+  "parent_t1_ref": "retainingwallgoldcoast-151",
+  "node_role": "feeder",
+  "money_target": "retainingwallgoldcoast.com.au",
+  "primary_kw": "retaining walls gold coast how to choose",
+  "intended_url": "https://sitesau.github.io/retainingwallgoldcoast-104/",
+  "tier": "T2",
+  "writeback_nonce": "9d29eb26a42713c3",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-gold-coast-seasonal-timing-4b073e71c61eef67a71f/",
+      "anchor": "https://aumedia.neocities.org/retaining-walls-gold-coast-seasonal-timing-4b073e71c61eef67a71f/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
